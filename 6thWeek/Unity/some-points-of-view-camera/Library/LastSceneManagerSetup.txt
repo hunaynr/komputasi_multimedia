@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Saved Scene/some-points-of-view-camera.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
