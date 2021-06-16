@@ -1,0 +1,34 @@
+UAS membuat game 3D
+
+Deadline Pertemuan 16  Demo game 3D ( upload di youtube)
+
+Berkelompok max 4 orang.
+
+Format Laporan:
+
+1.Judul Game
+
+2.Genre
+
+3.Game Mechanics
+-Pergerakan Karakter dan Object
+-Object Pick Ups
+-Sound
+-Lightning
+
+3.Kondisi Menang/Kalah
+
+4.Minimum ada 2 level yang berbeda
+
+5.Ada in game menu
+Judul, start, pilih level, dll.
+
+4.Source Materials
+
+Link Tutorial :
+Link Assets :
+
+keterangan : kasih nama dan nim kelompok
+16_UAS_KELOMPOKBERP
+
+Di youtube : wajah kelihatan dan perkenalkan dirimu trs jlaskan
